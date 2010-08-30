@@ -1,0 +1,7 @@
+.DS_STORE
+gen/
+build/
+bin/
+test/build
+test/gen
+test/bin

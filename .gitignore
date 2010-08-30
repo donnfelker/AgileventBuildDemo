@@ -5,3 +5,5 @@ bin/
 test/build
 test/gen
 test/bin
+local.properties
+test/local.properties

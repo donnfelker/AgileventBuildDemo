@@ -9,4 +9,5 @@
     </application>
 
     <instrumentation android:targetPackage="com.agilevent.builddemo" android:name="android.test.InstrumentationTestRunner" />
+<uses-sdk android:minSdkVersion="8"></uses-sdk>
 </manifest> 

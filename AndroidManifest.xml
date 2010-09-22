@@ -13,7 +13,5 @@
         </activity>
 
     </application>
-
-asdfasdf
 <uses-sdk android:minSdkVersion="8"></uses-sdk>
 </manifest> 
